@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **JAVA+DSA and Reactjs**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
-  
-- 👨‍💻 Check out my projects at [My Portfolio](https://vinay-sandeep.github.io/vinay-sandeep-pro/portfilo_vinay_sandeep/vinay-sandeep/vinay_sandeep.html)
 
 - 💬 Ask me about **Web Development**
   
