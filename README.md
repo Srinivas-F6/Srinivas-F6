@@ -6,14 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivas-f6" alt="srinivas-f6" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Developer**
-
-- 🌱 I’m currently learning **JAVA+DSA and Reactjs**
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
-
-- 💬 Ask me about **Web Development**
-  
+- 🔭 I’m currently working on **Java Full Stack Development** - 🌱 I’m currently learning **Spring Boot Microservices, System Design, and DSA** - 👯 I’m looking to collaborate on **Java, Spring Boot, and Full Stack Projects** - 💬 Ask me about **Java, Spring Boot, REST APIs, Microservices, SQL, React.js, and Web Development** - 📫 How to reach me: **your-email@example.com** - ⚡ Fun fact: **I enjoy solving coding problems and building scalable applications**
 - 📫 Reach me at **glsrinivas1111@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
