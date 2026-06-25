@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Java Full Stack Development**
 - 🌱 I’m currently learning **Spring Boot Microservices, System Design, and DSA**
-- 👯 I’m looking to collaborate on **Java, Spring Boot, and Full Stack Projects**
+- 👯 I’m looking to collaborate on **Java, Spring Boot, React.Js and Full Stack Projects**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Microservices, SQL, React.js, and Web Development**
 - ⚡ Fun fact: **I enjoy solving coding problems and building scalable applications**
 - 📫 Reach me at **glsrinivas1111@gmail.com**
